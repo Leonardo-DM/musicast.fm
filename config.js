@@ -16,7 +16,7 @@ var settings = {
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
-    'streaming_type': 'icecast',
+    'streaming_type': 'shoutcast',
 
     // Visit https://api.vagalume.com.br/docs/ to get your API key
     'api_key': 'f99c41384eeb8a2ef898f5a5e997c28c',
