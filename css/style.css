@@ -134,7 +134,6 @@ body {
 }
 
 .lyrics {
-    text-transform: uppercase;
     text-decoration: underline;
     color: #fff;
     font-size: 1em;
